@@ -1,0 +1,27 @@
+India-(degree celcius)
+January-14	
+February-18	
+March- 23	
+April- 29	
+May- 33	
+June- 33	
+July- 32	
+August-	31
+September- 30	
+October- 27	
+November- 21	
+December- 16
+
+USA-(degree celcius)
+January-1	
+February-2	
+March- 6	
+April- 12	
+May- 17
+June- 22	
+July- 25	
+August-	24
+September- 20	
+October- 14	
+November- 9	
+December- 4		
